@@ -73,6 +73,3 @@ StartingProject/
 │   └── RestaurantView.swift
 └── StartingProjectApp.swift
 ```
-
-## License
-This project is for educational purposes only. 
