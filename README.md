@@ -74,13 +74,5 @@ StartingProject/
 └── StartingProjectApp.swift
 ```
 
----
-
-## Credits
-- Developed as part of the Meta iOS Engineer Course Capstone Project.
-- All restaurant and reservation data is sample/demo content.
-
----
-
 ## License
 This project is for educational purposes only. 
